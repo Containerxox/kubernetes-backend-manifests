@@ -1,0 +1,22 @@
+# Kubernetes secrets
+**/*secret*.yaml
+**/*secret*.yml
+dev/spring-secret.yaml
+staging/spring-secret.yaml
+prod/spring-secret.yaml
+
+# Environment files
+.env
+.env.*
+
+# Local / OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
