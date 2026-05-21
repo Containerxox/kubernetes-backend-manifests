@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: spring-container
-          image: "131745734264.dkr.ecr.ap-northeast-2.amazonaws.com/devops-practice-backend:282c986c59fec1a3c3628bea16ce84f9a7467042"
+          image: "131745734264.dkr.ecr.ap-northeast-2.amazonaws.com/devops-practice-backend:9015ab80eab35fe64046f68ad46cb037fd64b0ed"
           imagePullPolicy: IfNotPresent
 
           ports:
